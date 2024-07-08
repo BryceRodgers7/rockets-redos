@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This is a quick-and-dirty copy of a website for an old family business using React. The original website can be found [here](https://iowarockets.com/). 
+This is a quick-and-dirty copy of a [website](https://iowarockets.com/) from an old family business, using React.
 
 ### run `npm start` in project directory to launch
 
